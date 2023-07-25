@@ -40,11 +40,16 @@ body, html{
 
 
 .flex-container{
+    /* display: flex; */
+    /* flex-direction: row-reverse; */
+    /* gap: 20px; */
+    /* justify-content: start; */
+    /* align-items: end; */
+    /* flex-wrap: wrap-reverse; */
 }
-
-
-
-
+.item1{
+    margin: auto;
+}
 
 
 

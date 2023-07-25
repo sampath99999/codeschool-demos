@@ -1,0 +1,13 @@
+.header{
+    background-image: url('https://d20exy1ygbh3sg.cloudfront.net/fms/images/newUi/header-bg.jpg');
+}
+.menu{
+    background-color: #00498d;
+}
+.menu ul li{
+    padding: 10px 30px;
+}
+.menu ul li:hover{
+    background-color: #0063c0;
+    cursor: pointer;
+}

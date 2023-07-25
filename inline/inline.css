@@ -39,10 +39,20 @@ body, html{
 
 
 
-p{
-    outline: 3px solid orangered;
-}
-a{
-    outline: 3px solid blue;
+/* a{
+    background-color: lightblue;
+    /* padding: 20px 50px; */
+    /* text-decoration: none;
+    color: black;
     display: inline-block;
+    outline: 3px solid orange;
+    margin: 20px;
+    padding-left: 20px;
+} */ 
+
+p{
+    display: inline;
+    outline: 3px solid orange;
+    margin: 20px;
+
 }

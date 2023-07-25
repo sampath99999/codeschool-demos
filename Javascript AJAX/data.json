@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Iphone 13 Pro Max",
+        "price": "1,25,000",
+        "img": "https://cdn.dxomark.com/wp-content/uploads/medias/post-95390/Apple-iPhone-13-Pro-Max-featured-image-packshot-review-1024x691.jpg"
+    },
+    {
+        "name": "Mac",
+        "price": "1,99,000",
+        "img": "https://www.apple.com/newsroom/images/product/imac/standard/Apple_imac-magickeyboardnum-magicmouse2-macos-wallpaper_08042020.jpg.og.jpg?202305231338"
+    },
+    {
+        "name": "Mac",
+        "price": "1,99,000",
+        "img": "https://www.apple.com/newsroom/images/product/imac/standard/Apple_imac-magickeyboardnum-magicmouse2-macos-wallpaper_08042020.jpg.og.jpg?202305231338"
+    }
+]
